@@ -1,8 +1,14 @@
-## Hi there 👋
+## Bonjour 👋
 
-test
-test
-LOIC test ce readme
+- 🔭 Vous trouverez ici les liens vers les projets sur lequels j'ai travaillé :
+      Détection de panneau de signalisation avec YOLO : https://github.com/flo22208/PAP-DetectionPanneauSignalisation
+      Simulation de poisson sur Python : https://github.com/Nathbuc/Particles
+      Mise en oeuvre d'image Quilting depuis un article scientifique : https://github.com/flo22208/Image_Quilting
+      Apprentisage par renforcement sur un jeu atari : 
+      Detection d'objet sur le sol d'une pièce : https://github.com/Coaraa/object-change-detection
+- 🌱 J'étudie actuellement l'intelligence artificielle à l'Université du Québéc à Chicoutimi
+- 📫 Comment me contacter : mail or linkedin
+
 <!--  
 **Lortic/Lortic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
