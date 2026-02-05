@@ -1,9 +1,11 @@
 ## Bonjour 👋
 
 - 🔭 Vous trouverez ici les liens vers les projets sur lequels j'ai travaillé :
+  
       UQAC :
       - Apprentisage par renforcement sur un jeu atari : 
       - Detection d'objet sur le sol d'une pièce : https://github.com/Coaraa/object-change-detection
+  
       ENSEEIHT :
       - Détection de panneau de signalisation avec YOLO : https://github.com/flo22208/PAP-DetectionPanneauSignalisation
       - Simulation de poisson sur Python : https://github.com/Nathbuc/Particles
