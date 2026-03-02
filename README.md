@@ -5,7 +5,7 @@
       UQAC :
       - Sélection pour le hackathon GenIA : https://github.com/Coaraa/mobility-copilot
                                             - Lien vers le site du hackathon : https://www.ai-univ-paris8.fr/hackathon-gen-ai-2026/
-      - Apprentisage par renforcement sur un jeu atari : 
+      - Apprentisage par renforcement sur un jeu atari : https://github.com/Lortic/rl-atari
       - Detection d'objet sur le sol d'une pièce : https://github.com/Coaraa/object-change-detection
   
       ENSEEIHT :
