@@ -3,6 +3,8 @@
 - 🔭 Vous trouverez ici les liens vers les projets sur lequels j'ai travaillé :
   
       UQAC :
+      - Sélection pour le hackathon GenIA : https://github.com/Coaraa/mobility-copilot
+                                            - Lien vers le site du hackathon : https://www.ai-univ-paris8.fr/hackathon-gen-ai-2026/
       - Apprentisage par renforcement sur un jeu atari : 
       - Detection d'objet sur le sol d'une pièce : https://github.com/Coaraa/object-change-detection
   
